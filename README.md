@@ -4,7 +4,7 @@ A modern, responsive e-commerce frontend built with HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live site](https://prathmesh0204.github.io/project/)
+👉 [Click here to view the live site](https://prathmesh0204.github.io/Project/#)
 
 ## 💻 Features
 
